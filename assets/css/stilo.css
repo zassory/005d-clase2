@@ -1,0 +1,65 @@
+body{
+    background-color: black;
+}
+
+/* colores fuentes */
+
+.text-white{
+    color: white;
+}
+.text-red{
+    color: red;
+}
+
+.mayuscula{
+    text-transform: uppercase;
+}
+
+/* fondos */
+.fondo-azul{
+    background-color: blue;
+}
+
+/* Centrar */
+.centrar-texto{
+    text-align: center;
+}
+
+/*  Margin y Padding */
+
+.espacio1{
+    margin-top: 10px;
+}
+
+.espacio2{
+    margin-top: 20px;
+}
+.espacio3{
+    margin-top: 30px;
+}
+.espacio4{
+    margin-top: 40px;
+}
+.espacio5{
+    margin-top: 50px;
+}
+.espacio6{
+    margin-top: 60px;
+}
+.espacio7{
+    margin-top: 70px;
+}
+.espacio8{
+    margin-top: 80px;
+}
+.espacio9{
+    margin-top: 90px;
+}
+.espacio10{
+    margin-top: 100px;
+}
+
+/* Redondear  */
+.redondear1{
+    border-radius: .3rem;
+}

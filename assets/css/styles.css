@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+}
+
+.duoc1{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: brown;
+    max-width: 70%;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    margin-top: 130px;
+}
+.duoc2{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: brown;
+    max-width: 70%;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    margin-top: 50px;
+}
+.btn-colo{
+    background-color: rgb(252, 250, 250);
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: .3rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.btn-colo:hover{
+    background-color: rgb(87, 71, 71);
+    color: white;
+    cursor: pointer;
+    transition: .3s ease-in;
+}
+
+.btn-ude{
+    background-color: blue;
+    color: white;
+    border-radius: .3rem;
+    padding: 10px 15px 10px 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
